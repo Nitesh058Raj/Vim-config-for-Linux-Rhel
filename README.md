@@ -11,6 +11,7 @@ git clone https://github.com/Nitesh058Raj/vim-config-rhel-linux.git
 
 `./install.sh`
 
+# This will automatically prompt and you don't have to do anything
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/65148119/215265577-17266bf0-fe0d-4c34-a133-39593de5fe41.png)
 
