@@ -15,5 +15,9 @@ git clone https://github.com/Nitesh058Raj/vim-config-rhel-linux.git
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/65148119/215265577-17266bf0-fe0d-4c34-a133-39593de5fe41.png)
 
+If you stuck at this screen then:
+  <code> Ctrl+C </code> --> <code>ESC</code> --> <code>:qa!</code>
+  still your configuration for NerdTree and CtrlP will be done
+
 After this you are good to go with vim with NerdTree CtrlP plugin :)
 
